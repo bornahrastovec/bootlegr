@@ -1,0 +1,6 @@
+@Oakable.Bootlegr.Api_HostAddress = http://localhost:5195
+
+GET {{Oakable.Bootlegr.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
